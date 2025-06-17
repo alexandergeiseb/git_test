@@ -1,0 +1,3 @@
+Hi! 
+
+I'm starting all over again to get a better grasp of git and the odin project as a whole.   
